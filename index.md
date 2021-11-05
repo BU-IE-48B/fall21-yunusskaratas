@@ -6,4 +6,8 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-yunussk
 
 There will be several homework assignments done for this course.
 
-### Homework Assignment 0
+### Homework Assignment 1
+* [Description of Homework 1](HW1/IE48B_Fall21_Homework_1.pdf)
+* [Time Series Representation of Gestures](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW1/HW1.html): Time Series Representation of Gestures
+
+
