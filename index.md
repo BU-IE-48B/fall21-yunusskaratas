@@ -11,3 +11,7 @@ There will be several homework assignments done for this course.
 * [Gesture Recognition](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW1/HW1.html): Visualization and Time Series Representation of Gestures
 
 
+### Homework Assignment 1
+* [Description of Homework 2](HW2/IE48B_Fall21_Homework_2.pdf)
+* [Model Based Time Series Representation](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW2/HW2.html):  Penalized regression approaches for time series representation
+
