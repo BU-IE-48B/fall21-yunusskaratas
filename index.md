@@ -18,8 +18,8 @@ There will be several homework assignments done for this course.
 
 
 ### Homework Assignment 3
-* [Ham dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HW3 - HAM.html)
-* [ECG200 dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HW3 - ECG2OO.html)
-* [Plane dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HW3 - Plane.html)
-* [PowerCons dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HW3 - PowerCons.html)
-* [Trace dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HW3 - Trace.html)
+* [Ham dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/HAM.html)
+* [ECG200 dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/ECG2OO.html)
+* [Plane dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/Plane.html)
+* [PowerCons dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/PowerCons.html)
+* [Trace dataset modelling](https://bu-ie-48b.github.io/fall21-yunusskaratas/HW3/Trace.html)
